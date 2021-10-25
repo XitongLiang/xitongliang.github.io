@@ -1,4 +1,5 @@
-title: false
+title: myCustomTitle
+description: myCustomAndDetailedDescription
 
 theme: jekyll-theme-minimal
 
